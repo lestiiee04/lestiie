@@ -1,10 +1,8 @@
 # lestiie
 
-<<<<<<< HEAD
 John Lester Lunzaga
 Ronieric Borres
 Reymark Jamili
-=======
 --My-Likes---
 like
 love
@@ -16,4 +14,3 @@ Storms
 Arts
 eating
 mukhbang
->>>>>>> My-Likes
